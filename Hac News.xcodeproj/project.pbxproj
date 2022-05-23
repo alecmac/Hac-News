@@ -14,6 +14,7 @@
 		702532B328397656002EC0D3 /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 702532B228397656002EC0D3 /* NetworkManager.swift */; };
 		702532B528397700002EC0D3 /* PostData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 702532B428397700002EC0D3 /* PostData.swift */; };
 		702532B8283B4A7B002EC0D3 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 702532B7283B4A7B002EC0D3 /* DetailView.swift */; };
+		702532BA283B4C77002EC0D3 /* WebView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 702532B9283B4C77002EC0D3 /* WebView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		702532B228397656002EC0D3 /* NetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
 		702532B428397700002EC0D3 /* PostData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostData.swift; sourceTree = "<group>"; };
 		702532B7283B4A7B002EC0D3 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
+		702532B9283B4C77002EC0D3 /* WebView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +90,7 @@
 			children = (
 				702532A52839749A002EC0D3 /* ContentView.swift */,
 				702532B7283B4A7B002EC0D3 /* DetailView.swift */,
+				702532B9283B4C77002EC0D3 /* WebView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -165,6 +168,7 @@
 				702532B328397656002EC0D3 /* NetworkManager.swift in Sources */,
 				702532B528397700002EC0D3 /* PostData.swift in Sources */,
 				702532A62839749A002EC0D3 /* ContentView.swift in Sources */,
+				702532BA283B4C77002EC0D3 /* WebView.swift in Sources */,
 				702532B8283B4A7B002EC0D3 /* DetailView.swift in Sources */,
 				702532A42839749A002EC0D3 /* Hac_NewsApp.swift in Sources */,
 			);
